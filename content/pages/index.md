@@ -81,7 +81,7 @@ sections:
         url: blog
         style: button
 seo:
-  title: Stackbit Exto Theme
+  title: SOLARIS VE. XMAX FORNACI   TURIN
   description: The preview of the Exto theme
   extra:
     - name: 'og:type'
